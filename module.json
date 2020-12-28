@@ -78,7 +78,7 @@
             "package": "DnD5e-整理資料集"
         }
     ],
-     "url": "https://github.com/wushung103/DnD5e-compendium",
+    "url": "https://github.com/wushung103/DnD5e-compendium",
     "manifest": "https://raw.githubusercontent.com/wushung103/DnD5e-compendium/main/module.json",
     "download": "https://github.com/wushung103/DnD5e-compendium/archive/main.zip",
 }

@@ -11,77 +11,77 @@
     "packs": [
         {
             "name": "actors",
-            "label": "Actors (Shared)",
+            "label": "角色",
             "path": "packs/actors.db",
             "entity": "Actor",
             "package": "private-compendium"
         },
         {
             "name": "monsters",
-            "label": "Monsters (Shared)",
+            "label": "敵人/怪物",
             "path": "packs/monsters.db",
             "entity": "Actor",
             "package": "private-compendium"
         },
         {
             "name": "spells",
-            "label": "Spells (Shared)",
+            "label": "法術",
             "path": "packs/spells.db",
             "entity": "Item",
             "package": "private-compendium"
         },
         {
             "name": "items",
-            "label": "Items (Shared)",
+            "label": "物品",
             "path": "packs/items.db",
             "entity": "Item",
             "package": "private-compendium"
         },
         {
             "name": "classfeatures",
-            "label": "Class Features (Shared)",
+            "label": "特性",
             "path": "packs/classfeatures.db",
             "entity": "Item",
             "package": "private-compendium"
         },
         {
-            "name": "monsterfeatures",
-            "label": "Monster Features (Shared)",
+            "name": "monsterfeartures",
+            "label": "怪物特性",
             "path": "packs/monsterfeatures.db",
             "entity": "Item",
             "package": "private-compendium"
         },
         {
-            "name": "journals",
-            "label": "Journal Entries (Shared)",
+            "name": "journal",
+            "label": "文字資料",
             "path": "packs/journal.db",
             "entity": "JournalEntry",
             "package": "private-compendium"
         },
         {
             "name": "scenes",
-            "label": "Scenes (Shared)",
+            "label": "地圖",
             "path": "packs/scenes.db",
             "entity": "Scene",
             "package": "private-compendium"
         },
         {
             "name": "macros",
-            "label": "Macros (Shared)",
+            "label": "Macros",
             "path": "packs/macros.db",
             "entity": "Macro",
             "package": "private-compendium"
         },
         {
             "name": "tables",
-            "label": "Roll Tables (Shared)",
+            "label": "Roll Tables",
             "path": "packs/tables.db",
             "entity": "RollTable",
             "package": "private-compendium"
         },
         {
             "name": "playlists",
-            "label": "Playlists (Shared)",
+            "label": "音效",
             "path": "packs/playlists.db",
             "entity": "Playlist",
             "package": "private-compendium"

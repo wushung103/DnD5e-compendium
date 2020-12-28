@@ -8,7 +8,7 @@
     "author": "無雙",
     "url": "https://github.com/wushung103/DnD5e-compendium",
     "manifest": "https://raw.githubusercontent.com/wushung103/DnD5e-compendium/main/module.json",
-    "download": "https://gitlab.com/Akaito1/foundry-drmapzo-free/-/archive/v0.18.0/foundry-drmapzo-free-v0.18.0.zip",
+    "download": "https://github.com/wushung103/DnD5e-compendium/archive/main.zip",
     "packs": [
         {
             "name": "角色",

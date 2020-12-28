@@ -1,10 +1,14 @@
 {
     "name": "DnD5e-整理資料集",
     "title": "shared (Shared Compendiums)",
+    "type": "module",
     "description": "無雙整理的資料，建議共同安裝Compendium Browser + Compendium Folder更方便使用",
     "version": "v1.0",
     "minimumCoreVersion": "0.5.0",
     "author": "無雙",
+    "url": "https://github.com/wushung103/DnD5e-compendium",
+    "manifest": "https://raw.githubusercontent.com/wushung103/DnD5e-compendium/main/module.json",
+    "download": "https://gitlab.com/Akaito1/foundry-drmapzo-free/-/archive/v0.18.0/foundry-drmapzo-free-v0.18.0.zip",
     "packs": [
         {
             "name": "角色",
@@ -77,4 +81,7 @@
             "package": "DnD5e-整理資料集"
         }
     ]
+  "url": "https://github.com/wushung103/DnD5e-zh-TW",
+  "manifest": "https://raw.githubusercontent.com/wushung103/DnD5e-zh-TW/main/module.json",
+  "download": "https://github.com/wushung103/DnD5e-zh-TW/archive/main.zip"
 }

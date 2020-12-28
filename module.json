@@ -1,6 +1,6 @@
 {
     "name": "forge-vtt-shared-compendiums-shared",
-    "title": "shared (Shared Compendiums)",
+    "title": "DnD5e 資料彙總",
     "description": "<p>This module allows you to share compendiums between your worlds.</p><p>It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p>",
     "version": "v1.0",
     "minimumCoreVersion": "0.5.0",

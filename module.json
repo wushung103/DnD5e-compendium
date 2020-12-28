@@ -1,0 +1,87 @@
+{
+    "name": "forge-vtt-shared-compendiums-shared",
+    "title": "shared (Shared Compendiums)",
+    "description": "<p>This module allows you to share compendiums between your worlds.</p><p>It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p>",
+    "version": "v1.0",
+    "minimumCoreVersion": "0.5.0",
+    "author": "The Forge (KaKaRoTo)",
+    "packs": [
+        {
+            "name": "actors",
+            "label": "Actors (Shared)",
+            "path": "packs/actors.db",
+            "entity": "Actor",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "monsters",
+            "label": "Monsters (Shared)",
+            "path": "packs/monsters.db",
+            "entity": "Actor",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "spells",
+            "label": "Spells (Shared)",
+            "path": "packs/spells.db",
+            "entity": "Item",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "items",
+            "label": "Items (Shared)",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "classfeatures",
+            "label": "Class Features (Shared)",
+            "path": "packs/classfeatures.db",
+            "entity": "Item",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "monsterfeatures",
+            "label": "Monster Features (Shared)",
+            "path": "packs/monsterfeatures.db",
+            "entity": "Item",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "journals",
+            "label": "Journal Entries (Shared)",
+            "path": "packs/journal.db",
+            "entity": "JournalEntry",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes (Shared)",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "macros",
+            "label": "Macros (Shared)",
+            "path": "packs/macros.db",
+            "entity": "Macro",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "tables",
+            "label": "Roll Tables (Shared)",
+            "path": "packs/tables.db",
+            "entity": "RollTable",
+            "package": "forge-vtt-shared-compendiums-shared"
+        },
+        {
+            "name": "playlists",
+            "label": "Playlists (Shared)",
+            "path": "packs/playlists.db",
+            "entity": "Playlist",
+            "package": "forge-vtt-shared-compendiums-shared"
+        }
+    ]
+}

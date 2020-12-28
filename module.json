@@ -1,87 +1,80 @@
 {
-    "name": "forge-vtt-shared-compendiums-shared",
+    "name": "DnD5e-整理資料集",
     "title": "shared (Shared Compendiums)",
-    "description": "<p>This module allows you to share compendiums between your worlds.</p><p>It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p>",
+    "description": "無雙整理的資料，建議共同安裝Compendium Browser + Compendium Folder更方便使用",
     "version": "v1.0",
     "minimumCoreVersion": "0.5.0",
-    "author": "The Forge (KaKaRoTo)",
+    "author": "無雙",
     "packs": [
         {
-            "name": "actors",
-            "label": "Actors (Shared)",
+            "name": "角色",
+            "label": "Actors(彙總)",
             "path": "packs/actors.db",
             "entity": "Actor",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "monsters",
-            "label": "Monsters (Shared)",
+            "name": "怪物/敵人",
+            "label": "Monsters (彙總)",
             "path": "packs/monsters.db",
             "entity": "Actor",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "spells",
-            "label": "Spells (Shared)",
+            "name": "法術",
+            "label": "法術 (彙總)",
             "path": "packs/spells.db",
             "entity": "Item",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "items",
-            "label": "Items (Shared)",
+            "name": "物品",
+            "label": "物品 (彙總)",
             "path": "packs/items.db",
             "entity": "Item",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "classfeatures",
-            "label": "Class Features (Shared)",
+            "name": "特性",
+            "label": "特性 (彙總)",
             "path": "packs/classfeatures.db",
             "entity": "Item",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
-        {
-            "name": "monsterfeatures",
-            "label": "Monster Features (Shared)",
-            "path": "packs/monsterfeatures.db",
-            "entity": "Item",
-            "package": "forge-vtt-shared-compendiums-shared"
-        },
-        {
-            "name": "journals",
-            "label": "Journal Entries (Shared)",
+                {
+            "name": "資料",
+            "label": "資料(彙總)",
             "path": "packs/journal.db",
             "entity": "JournalEntry",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "scenes",
-            "label": "Scenes (Shared)",
+            "name": "地圖",
+            "label": "地圖(彙總)",
             "path": "packs/scenes.db",
             "entity": "Scene",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "macros",
-            "label": "Macros (Shared)",
+            "name": "Macros",
+            "label": "Macros(彙總)",
             "path": "packs/macros.db",
             "entity": "Macro",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "tables",
-            "label": "Roll Tables (Shared)",
+            "name": "Roll Tables",
+            "label": "Roll Tables(彙總)",
             "path": "packs/tables.db",
             "entity": "RollTable",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         },
         {
-            "name": "playlists",
-            "label": "Playlists (Shared)",
+            "name": "音效",
+            "label": "Playlists(彙總)",
             "path": "packs/playlists.db",
             "entity": "Playlist",
-            "package": "forge-vtt-shared-compendiums-shared"
+            "package": "DnD5e-整理資料集"
         }
     ]
 }

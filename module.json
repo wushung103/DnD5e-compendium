@@ -2,6 +2,7 @@
     "name": "DnD5e-整理資料集",
     "title": "shared (Shared Compendiums)",
     "type": "module",
+    "system": "dnd5e",
     "description": "無雙整理的資料，建議共同安裝Compendium Browser + Compendium Folder更方便使用",
     "version": "v1.0",
     "minimumCoreVersion": "0.5.0",

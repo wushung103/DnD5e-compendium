@@ -5,6 +5,9 @@
     "version": "v1.0",
     "minimumCoreVersion": "0.5.0",
     "author": "The Forge (KaKaRoTo)",
+    "url": "https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack",
+    "download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
+    "manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/SupersHomebrewPack/module.json",
     "packs": [
         {
             "name": "actors",

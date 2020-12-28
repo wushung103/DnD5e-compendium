@@ -6,7 +6,7 @@
     "minimumCoreVersion": "0.5.0",
     "author": "The Forge (KaKaRoTo)",
     "url": "https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack",
-    "download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
+    "download": "https://github.com/wushung103/DnD5e-compendium/archive/main.zip",
     "manifest": "https://raw.githubusercontent.com/wushung103/DnD5e-compendium/main/module.json",
     "packs": [
         {

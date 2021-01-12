@@ -17,13 +17,6 @@
             "package": "private-compendium"
         },
         {
-            "name": "monsters",
-            "label": "敵人/怪物",
-            "path": "packs/monsters.db",
-            "entity": "Actor",
-            "package": "private-compendium"
-        },
-        {
             "name": "spells",
             "label": "法術",
             "path": "packs/spells.db",
@@ -41,13 +34,6 @@
             "name": "classfeatures",
             "label": "特性",
             "path": "packs/classfeatures.db",
-            "entity": "Item",
-            "package": "private-compendium"
-        },
-        {
-            "name": "monsterfeartures",
-            "label": "怪物特性",
-            "path": "packs/monsterfeatures.db",
             "entity": "Item",
             "package": "private-compendium"
         },
